@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python Test/.idea/Python Test.iml" filepath="$PROJECT_DIR$/../Python Test/.idea/Python Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonLearning.iml" filepath="$PROJECT_DIR$/.idea/PythonLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SeleniumWDFramework/.idea/SeleniumWDFramework.iml" filepath="$PROJECT_DIR$/../SeleniumWDFramework/.idea/SeleniumWDFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test/.idea/Test.iml" filepath="$PROJECT_DIR$/../Test/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonSelenium/.idea/pythonSelenium.iml" filepath="$PROJECT_DIR$/../pythonSelenium/.idea/pythonSelenium.iml" />
+    </modules>
+  </component>
+</project>
